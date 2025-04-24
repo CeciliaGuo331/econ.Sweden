@@ -37,3 +37,7 @@ Sweden recorded a Government Debt to GDP of 31.50 percent of the country's Gross
 
 ![SE_Government_Debt_to_GDP](./images/SE_Government_Debt_to_GDP.png)
 
+
+## Wages
+
+![SE_Wages](./images/SE_Wages.png)
