@@ -1,7 +1,5 @@
 # Sweden indicators from Trading Economics
 
-这是一个修改
-
 ## UNEMPLOYMENT RATE
 
 Sweden's unemployment rate rose to 9.4% in February 2025 from 8.5% in the same month of the previous year. The number of unemployed individuals increased by 53 thousand year-on-year to 533 thousand, while employment declined by 16 thousand to 5.16 million. The employment rate fell by 0.4 percentage points to 67.7%, while the labor force participation rate grew by 0.2 percentage points to 74.7%. The average total number of hours worked per week amounted to 170.5 million. On a seasonally adjusted basis, the unemployment rate increased slightly to 9.0% from 8.9% in the preceding period. source: [Statistics Sweden](https://www.scb.se/)
