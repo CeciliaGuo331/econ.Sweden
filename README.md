@@ -1,4 +1,4 @@
-# 福利与衰退: 从瑞典出发剖析北欧高福利国家的真实经济情况
+# 北欧高福利神话的现实审视：以瑞典为例看经济承压与模式可持续性
 
 > 选题, 待调整
 
@@ -8,4 +8,9 @@
 
 ## **故事线组织 & 数据处理计划** 
 
-> 见[README.md](thesis/README.md)
+- 故事线概览见[README.md](thesis/README.md)
+- 数据处理脚本见[demo.py](data/demo.py)
+
+## **正文**
+
+- 见[a_snapshot_for_Sweden_econ.md](thesis/a_snapshot_for_Sweden_econ.md)
