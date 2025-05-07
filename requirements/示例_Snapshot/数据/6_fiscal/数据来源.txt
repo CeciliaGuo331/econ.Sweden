@@ -1,0 +1,3 @@
+国家统计局https://www.stats.gov.cn/
+企业预警通https://www.qyyjt.cn/guide/intro
+在implicit debt和explicit debt文件中，region1-13分别对应：苏州市、南京市、无锡市、南通市、常州市、徐州市、扬州市、盐城市、泰州市、镇江市、淮安市、宿迁市、连云港市
