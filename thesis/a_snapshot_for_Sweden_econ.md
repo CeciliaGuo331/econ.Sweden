@@ -48,11 +48,17 @@ Securum和Retriva对不良资产进行“分级处置”：对于“短期可回
 
 1996年推出“公共支出上限”限制政府开支规模，并设定“目标盈余”，要求预算长期保持盈余以降低债务/GDP比率。</政府支出占GDP></国债占GDP>
 
+[Government_debt](https://github.com/CeciliaGuo331/econ.Sweden/blob/b3d76fbcd8c47a970c7be4f1dc9d0ae4f85ad75a/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E8%B4%A2%E6%94%BF%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%94%AF%E5%87%BA%E3%80%81%E5%88%A9%E7%8E%87/SE_Government_Debt_to_GDP.png "国债占GDP")
+
 #### 政策效果
  
 </GDP、人均GDP、失业率等>
 [GDP_per_capita](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "人均GDP")
+
 [GDP_growth](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "GDP增长率")
+
+[Unemployment_rate](https://github.com/CeciliaGuo331/econ.Sweden/blob/db75c814a29907cb2101eb295dedbc4f41acccc4/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E6%B6%88%E8%B4%B9%E3%80%81%E6%94%B6%E5%85%A5%E3%80%81%E5%B0%B1%E4%B8%9A%E3%80%81%E8%B4%AB%E5%9B%B0/SE_Unemployment_Rate.png "失业率")
+
 
 ```
 todo：这里写关于福利的主线故事
