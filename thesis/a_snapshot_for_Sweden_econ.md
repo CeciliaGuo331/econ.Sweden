@@ -49,9 +49,10 @@ Securum和Retriva对不良资产进行“分级处置”：对于“短期可回
 1996年推出“公共支出上限”限制政府开支规模，并设定“目标盈余”，要求预算长期保持盈余以降低债务/GDP比率。</政府支出占GDP></国债占GDP>
 
 #### 政策效果
-
+ 
 </GDP、人均GDP、失业率等>
-
+[GDP_per_capita](econ.Sweden/data/标准指标/GDP与人均GDP/SE_GDP_per_Capita.png "人均GDP")
+[GDP_growth](econ.Sweden/data/标准指标/GDP与人均GDP/SE_GDP_Growth_Rate.png "GDP增长率")
 
 ```
 todo：这里写关于福利的主线故事
