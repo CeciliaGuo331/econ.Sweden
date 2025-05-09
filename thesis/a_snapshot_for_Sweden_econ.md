@@ -51,8 +51,8 @@ Securum和Retriva对不良资产进行“分级处置”：对于“短期可回
 #### 政策效果
  
 </GDP、人均GDP、失业率等>
-[GDP_per_capita](econ.Sweden/data/标准指标/GDP与人均GDP/SE_GDP_per_Capita.png "人均GDP")
-[GDP_growth](econ.Sweden/data/标准指标/GDP与人均GDP/SE_GDP_Growth_Rate.png "GDP增长率")
+[GDP_per_capita](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "人均GDP")
+[GDP_growth](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "GDP增长率")
 
 ```
 todo：这里写关于福利的主线故事
