@@ -27,7 +27,7 @@
 
 [Housing_Price](https://github.com/CeciliaGuo331/econ.Sweden/blob/d8cf98e5a90ed5393cd83ea29e771b0af70dc62c/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/CEIC_Housing_Price_Growth.jpg "房价增长率")
 
-1992年，高估的克朗固定汇率面临巨大压力，为维持汇率，瑞典央行将基准利率一度上调至500%。1992年11月，政府被迫宣布放弃固定汇率，克朗自由浮动，汇率短期内暴跌。同时欧洲经济衰退的外部冲击进一步加剧了危机。<mark>利率、汇率</mark>
+1992年，高估的克朗固定汇率面临巨大压力，为维持汇率，瑞典央行将基准利率一度大幅上调。1992年11月，政府被迫宣布放弃固定汇率，克朗自由浮动，汇率短期内暴跌。同时欧洲经济衰退的外部冲击进一步加剧了危机。<mark>利率、汇率</mark>
 
 [Interest_rate](https://github.com/CeciliaGuo331/econ.Sweden/blob/391e73b3ff55d0eded05e08fd7f4c30a53d08e1e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/%E5%82%A8%E8%93%84%E7%8E%87%E4%B8%8E%E5%88%A9%E7%8E%87/SE_Interest_Rate.png "利率")
 
