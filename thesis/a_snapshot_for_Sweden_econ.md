@@ -23,9 +23,6 @@
 ### 90s“瑞典模式”
 
 20世纪90年代初，瑞典经历了一场严重的金融危机。危机的根源可追溯至80年代的金融自由化政策：政府先后放开了对国内银行业的竞争管制和资本账户管制，导致信贷过度扩张，私人部门债务占GDP比重在五年内从85%飙升至135% <mark>债务占GDP</mark>，其中大量为外币债务。
-
-[Government_debt](https://github.com/CeciliaGuo331/econ.Sweden/blob/b3d76fbcd8c47a970c7be4f1dc9d0ae4f85ad75a/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E8%B4%A2%E6%94%BF%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%94%AF%E5%87%BA%E3%80%81%E5%88%A9%E7%8E%87/SE_Government_Debt_to_GDP.png "国债占GDP")
-
 房地产行业成为泡沫核心，银行信贷高度集中于该领域，1990年至1991年间房价年均涨幅达25%，但泡沫在1992年破裂后，房地产价格在18个月内暴跌60%，银行因此蒙受巨额坏账损失（约占总损失的60%）<mark>房地产价格</mark>。
 
 [Housing_Price](https://github.com/CeciliaGuo331/econ.Sweden/blob/d8cf98e5a90ed5393cd83ea29e771b0af70dc62c/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/CEIC_Housing_Price_Growth.jpg "房价增长率")
