@@ -28,6 +28,68 @@
 
 ## 2 标准指标
 
+### 90s“瑞典模式”
+
+20世纪90年代初，瑞典经历了一场严重的金融危机。危机的根源可追溯至80年代的金融自由化政策：政府先后放开了对国内银行业的竞争管制和资本账户管制，导致信贷过度扩张，私人部门债务占GDP比重在五年内从85%飙升至135% <mark>债务占GDP</mark>，其中大量为外币债务。
+房地产行业成为泡沫核心，银行信贷高度集中于该领域，1988年至1991年间房价年均保持较高的正增长率，但泡沫在1992年破裂后，房地产价格暴跌，银行因此蒙受巨额坏账损失（约占总损失的60%）<mark>房地产价格</mark>。
+
+[Housing_Price](https://github.com/CeciliaGuo331/econ.Sweden/blob/d8cf98e5a90ed5393cd83ea29e771b0af70dc62c/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/CEIC_Housing_Price_Growth.jpg "房价增长率")
+
+1992年，高估的克朗固定汇率面临巨大压力，为维持汇率，瑞典央行将基准利率一度大幅上调。1992年11月，政府被迫宣布放弃固定汇率，克朗自由浮动，汇率短期内暴跌。同时欧洲经济衰退的外部冲击进一步加剧了危机。<mark>利率、汇率</mark>
+
+[Interest_rate](https://github.com/CeciliaGuo331/econ.Sweden/blob/391e73b3ff55d0eded05e08fd7f4c30a53d08e1e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/%E5%82%A8%E8%93%84%E7%8E%87%E4%B8%8E%E5%88%A9%E7%8E%87/SE_Interest_Rate.png "利率")
+
+[Exchange_rate](https://github.com/CeciliaGuo331/econ.Sweden/blob/fbda8a5107cadeb202d46785b91150be8f13a3a0/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/CEIC_exchange_%20rate.jpg "对美元汇率")
+
+1991年至1993年间，瑞典GDP累计下降6%，失业率飙升，政府财政支出和国债激增。<mark>GDP、人均GDP、失业率等</mark>
+
+[GDP_per_capita](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "人均GDP")
+
+[GDP_growth](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "GDP增长率")
+
+[Unemployment_rate](https://github.com/CeciliaGuo331/econ.Sweden/blob/db75c814a29907cb2101eb295dedbc4f41acccc4/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E6%B6%88%E8%B4%B9%E3%80%81%E6%94%B6%E5%85%A5%E3%80%81%E5%B0%B1%E4%B8%9A%E3%80%81%E8%B4%AB%E5%9B%B0/SE_Unemployment_Rate.png "失业率")
+
+#### 银行系统救助
+
+1990年代初，瑞典遭遇严重金融危机，银行系统濒临崩溃。1991年瑞典银行业因房地产泡沫破裂导致坏账激增，包括Nordbanken和Gota Bank在内的主要银行濒临破产。政府通过注资国有化银行后，将约650亿克朗剥离至成立的资产管理公司Securum和Retriva，其中Securum负责Nordbanken的坏账，Retriva负责Gota Bank的坏账。Securum和Retriva虽为国有机构，但由专业团队（投行、律所背景）按商业原则运作，政府仅设定回收资金目标，不干预具体交易。两家公司通过低价收购不良资产与后期处置收益的差价获利。这一模式后被国际货币基金组织（IMF）总结为“瑞典模式”，成为2008年全球金融危机中美国TARP计划等处理银行坏账的参考范本。
+
+Securum和Retriva对不良资产进行“分级处置”：对于“短期可回收资产”如抵押的住宅、商业地产，通过快速拍卖或折价出售回笼资金；“长期重组潜力资产”如陷入困境但仍有业务价值的企业，通过债务重组或债转股恢复运营后再出售；而“完全不良资产”如无法变现的废弃工业用地，通过法律程序清算或持有至市场回暖。在处理抵押房产、土地等实物资产时，公司采用“分批拍卖”策略，对于因贷款违约被银行接管的企业股权，则优先出售给私募基金或行业竞争者。对仍有经营能力的企业，公司重新谈判债务条件，包括将贷款期延长以降低企业短期偿债压力，将部分贷款转换为企业股权由公司持有，待企业盈利后通过IPO或并购退出。Securum还联合政府产业基金追加投资，帮助关键行业（林业、制造业）企业升级技术并开拓出口市场。
+
+为避免挤兑，政府在1992年推出“全面存款担保”政策，该政策宣布对所有商业银行和储蓄银行的个人及企业存款（包括本外币存款）提供无金额上限的政府担保，彻底消除储户对资金安全的担忧，并配套《银行支持法案》赋予法律效力。政策实施后，瑞典央行同步注入无限流动性，确保银行现金兑付能力，迅速平息挤兑风潮。
+
+政府引入“责任分层”机制：要求问题银行的股东和次级债持有人优先承担损失，仅在其无法覆盖全部损失时，才通过国有化注资介入，且注资后强制更换管理层、剥离高风险业务，形成对银行冒险行为的制度威慑。通过股东“剃头”，政府仅承担剩余损失，减少公共财政负担，避免用纳税人资金兜底。《银行支持法案》还规定银行在证明其资本缺口无法通过市场融资或股东注资弥补后，才能够申请政府救助。
+
+#### 《竞争法》
+
+经济危机暴露了瑞典经济结构僵化、行业垄断严重，国有企业主导电信、能源、金融等领域，效率低下且创新不足。同时瑞典正在计划加入欧盟，需调整国内法律以符合欧盟竞争政策框架。政府于1993年颁布新《竞争法》，禁止滥用市场支配地位，明确界定企业市场份额超过40%即占有“市场支配地位”，禁止通过价格操纵、排他性协议等手段限制竞争，严格限制并购，打击卡特尔行为。
+
+90年代中后期解除电力、电信、铁路、民航、出租车等行业的国有垄断，允许私营企业进入。将养老、基础教育等部分职公共服务职能外包给私营机构，提升效率并减轻财政负担。
+
+#### 税制改革
+
+1991年税改将公司所得税从52%大幅降至30%，并取消遗产税和富人税，鼓励资本再投资<mark>公司所得税</mark>。
+
+[Corporation_Income_Tax](https://github.com/CeciliaGuo331/econ.Sweden/blob/2f36856cf1998eddbb0f6b2db89f9f23b031c727/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/%E7%A8%8E%E6%94%B6/%E4%BC%81%E4%B8%9A%E6%89%80%E5%BE%97%E7%A8%8E%E7%8E%87.png "公司所得税")
+
+个人所得税最高边际税率从85%降至57%，通过“扁平化”税制减少高收入群体避税动机，同时维持高福利资金来源。<mark>个人所得税</mark>
+
+#### 财政紧缩
+
+1996年推出“公共支出上限”限制政府开支规模，并设定“目标盈余”，要求预算长期保持盈余以降低债务/GDP比率。<mark>政府支出占GDP 国债占GDP</mark>
+
+[Government_debt](https://github.com/CeciliaGuo331/econ.Sweden/blob/b3d76fbcd8c47a970c7be4f1dc9d0ae4f85ad75a/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E8%B4%A2%E6%94%BF%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%94%AF%E5%87%BA%E3%80%81%E5%88%A9%E7%8E%87/SE_Government_Debt_to_GDP.png "国债占GDP")
+
+#### 政策效果
+ 
+<mark>GDP、人均GDP、失业率等</mark>
+
+[GDP_per_capita](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "人均GDP")
+
+[GDP_growth](https://github.com/CeciliaGuo331/econ.Sweden/blob/8bbdc3e431f41ef321196d179e87f40048c9192e/data/%E6%A0%87%E5%87%86%E6%8C%87%E6%A0%87/GDP%E4%B8%8E%E4%BA%BA%E5%9D%87GDP/SE_GDP_Growth_Rate.png "GDP增长率")
+
+[Unemployment_rate](https://github.com/CeciliaGuo331/econ.Sweden/blob/db75c814a29907cb2101eb295dedbc4f41acccc4/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E6%B6%88%E8%B4%B9%E3%80%81%E6%94%B6%E5%85%A5%E3%80%81%E5%B0%B1%E4%B8%9A%E3%80%81%E8%B4%AB%E5%9B%B0/SE_Unemployment_Rate.png "失业率")
+
+
 ```
 todo：这里写关于福利的主线故事
 
