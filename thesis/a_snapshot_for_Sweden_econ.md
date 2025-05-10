@@ -46,7 +46,7 @@ Securum和Retriva对不良资产进行“分级处置”：对于“短期可回
 
 #### 财政紧缩
 
-1996年推出“公共支出上限”限制政府开支规模，并设定“目标盈余”，要求预算长期保持盈余以降低债务/GDP比率。<mark>政府支出占GDP 国债占GDP</mark></国债占GDP>
+1996年推出“公共支出上限”限制政府开支规模，并设定“目标盈余”，要求预算长期保持盈余以降低债务/GDP比率。<mark>政府支出占GDP 国债占GDP</mark>
 
 [Government_debt](https://github.com/CeciliaGuo331/econ.Sweden/blob/b3d76fbcd8c47a970c7be4f1dc9d0ae4f85ad75a/data/%E7%89%B9%E8%89%B2%E6%8C%87%E6%A0%87%E4%B8%80%EF%BC%9A%E9%AB%98%E7%A6%8F%E5%88%A9%E4%B8%8E%E5%85%B6%E8%A1%B0%E9%80%80%E5%80%BE%E5%90%91/%E8%B4%A2%E6%94%BF%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%94%AF%E5%87%BA%E3%80%81%E5%88%A9%E7%8E%87/SE_Government_Debt_to_GDP.png "国债占GDP")
 
